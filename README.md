@@ -1,1 +1,1 @@
-# urun-islemleri-uygulamas-
+# urun-islemleri-uygulamasi
